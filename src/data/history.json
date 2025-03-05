@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Mathzoos",
+    "startDate": "March, 2024",
+    "endDate": "Present",
+    "experiences": ["Question-Answer Generation System – Built with Python and PostgreSQL, delivering 36,000+ math solutions with step-by-step explanations and supporting 76 question types.", "Multi-Language Backend – Developed for a Flask app, integrating OpenAI GPT to provide accurate translations across 6 languages, ensuring clarity and consistency.", "Mathzoos Tutor (AI Chatbot) – Created a RAG-based chatbot using Langchain and Chroma Vector DB, improving response accuracy and boosting speed by 200% with Redis Semantic Cache."],
+    "imageSrc": "history/Mathzoos.png"
+  },
+  {
+    "role": "Software Intern",
+    "organisation": "Yieldln Asset Management",
+    "startDate": "Sep, 2023",
+    "endDate": "Mar, 2024",
+    "experiences": ["Optimized Backend Services – Refined and enhanced Spring framework-based backend, reducing response times by 40% and improving real-time investment history management scalability", "High-Performance Database Integration – Integrated backend services with a distributed MySQL database, achieving 500+ queries per second during peak demand.", "Kubernetes Deployment & Adoption – Led post-deployment adoption, with 10+ team members embracing the new system, increasing investment tracking efficiency by 500%."],
+    "imageSrc": "history/unknown.png"
+  }
+
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Performance and Power Analysis of 5G Networks",
+    "imageSrc": "projects/5G.jpg",
+    "description": "This project studies commercial 5G networks, analyzing performance, power consumption, and QoE across carriers, deployment schemes, radio bands, and applications. It compares 5G with 4G/LTE, highlighting key trade-offs in speed, latency, and energy efficiency. Findings optimize 5G usage, with datasets/tools available at GitHub",
+    "skills": ["C/C++", "Python(script)", "IPerf"],
+    "website": "https://github.com/SIGCOMM21-5G/artifact"
+  },
+  {
+    "title": "Dice Noti",
+    "imageSrc": "projects/raving.jpg",
+    "description": "Dice Noti is a real-time event monitoring system using Scrapy, RabbitMQ, Celery, and AWS. It scrapes 10,000+ events daily, processes notifications asynchronously, and delivers targeted email alerts. Optimized with Django ORM & PostgreSQL, it reduces query time by 30% and is deployed on AWS for scalability and efficient processing.",
+    "skills": ["Django", "RabbitMQ", "Celery", "AWS"]
+  }
+]
