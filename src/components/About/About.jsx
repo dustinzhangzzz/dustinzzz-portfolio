@@ -18,7 +18,7 @@ export const About = () => {
                         <img src={getImageUrl("about/serverIcon.png") } alt="ServerIcon"/>
                         <div className={styles.aboutItemText}>
                             <h3>AI Engineer</h3>
-                            <p>I specialize in AI-powered system development, integrating machine learning models, NLP, and AI-driven automation into real-world applications. My expertise includes model deployment, prompt engineering, data preprocessing, and scalable AI infrastructure using cloud-based solutions.</p>
+                            <p>Expertise in AI-powered system development, integrating machine learning models, natural language processing, and AI-driven automation into real-world applications. Skilled in model deployment, prompt engineering, data preprocessing, and building scalable AI infrastructure with cloud-based solutions</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
